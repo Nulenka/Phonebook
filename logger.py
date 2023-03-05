@@ -1,5 +1,4 @@
-from Phonebook.data_create import name_data, surname_data, phone_data, address_data
-
+from Phonebook/blob/main/data_create.py import name_data, surname_data, phone_data, address_data
 
 def input_data():
     name = name_data()
